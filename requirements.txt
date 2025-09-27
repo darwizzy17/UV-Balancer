@@ -1,1 +1,1 @@
-streamlit==1.37.0\npandas\nnumpy\nrequests\n
+streamlit==1.37.0\npandas==2.2.2\nnumpy==1.26.4\nrequests\n
